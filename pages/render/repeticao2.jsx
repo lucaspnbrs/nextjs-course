@@ -27,6 +27,7 @@ export default function Repeticao2(){
                     </tr>
                     <tbody>
                         {renderizarLista()}
+                        {renderizarLista()}
                     </tbody>
                 </thead>
             </table>
